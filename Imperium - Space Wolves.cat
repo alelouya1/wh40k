@@ -3076,11 +3076,6 @@ Saga of the Wolfkin (Aura): While a friendly SPACE WOLVES CORE unit is within 6&
             <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">3+</characteristic>
           </characteristics>
         </profile>
-        <profile id="6b16-e9e7-95f4-234e" name="Born of Wolves" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
-          <characteristics>
-            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">You can make 1 additional teeth and claws or crushing teeth and claws attack in the Fight phase for all friendly models in THUNDERWOLF, Fenrisian Wolves or Cyberwolves units that are within 6&quot; of Canis Wolfborn at the start of the phase.</characteristic>
-          </characteristics>
-        </profile>
       </profiles>
       <infoLinks>
         <infoLink id="b395-0c79-e1c6-1849" name="Angels of Death" hidden="false" targetId="01a4-bec8-b573-fde7" type="rule"/>
@@ -3112,7 +3107,7 @@ Saga of the Wolfkin (Aura): While a friendly SPACE WOLVES CORE unit is within 6&
                 <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Melee</characteristic>
                 <characteristic name="S" typeId="59b1-319e-ec13-d466">+1</characteristic>
                 <characteristic name="AP" typeId="75aa-a838-b675-6484">-2</characteristic>
-                <characteristic name="D" typeId="ae8a-3137-d65b-4ca7">1</characteristic>
+                <characteristic name="D" typeId="ae8a-3137-d65b-4ca7">2</characteristic>
                 <characteristic name="Abilities" typeId="837d-5e63-aeb7-1410">Each time an attack is made with this weapon, you can re-roll the wound roll.</characteristic>
               </characteristics>
             </profile>
